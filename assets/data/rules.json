@@ -1,0 +1,58 @@
+{
+  "courses": [
+    {
+      "id": "crash",
+      "name": "STEPWISE CRASH (إنقاذ)",
+      "when": [
+        "<24h",
+        "3d"
+      ],
+      "url": "https://t.me/ayedAcademy2026",
+      "reason": "وقت الاختبار قريب جدًا — نحتاج مراجعة مركزة ونماذج سريعة."
+    },
+    {
+      "id": "intensive",
+      "name": "STEPWISE INTENSIVE (مكثفة)",
+      "when": [
+        "7d",
+        "15d"
+      ],
+      "url": "https://t.me/ayedAcademy2026",
+      "reason": "وقت متوسط يسمح بخطة مكثفة + نماذج + تحليل أخطاء."
+    },
+    {
+      "id": "30",
+      "name": "STEPWISE 30 (30 يوم)",
+      "when": [
+        "30d"
+      ],
+      "url": "https://t.me/ayedAcademy2026",
+      "reason": "شهر كافٍ لبناء مهارات ثم اختبار محاكي تدريجي."
+    },
+    {
+      "id": "master",
+      "name": "STEPWISE MASTER (60–90 يوم)",
+      "when": [
+        "60d",
+        "90d",
+        "unscheduled"
+      ],
+      "url": "https://t.me/ayedAcademy2026",
+      "reason": "وقت طويل/بدون موعد — نبني أساس قوي ثم نماذج كاملة."
+    },
+    {
+      "id": "boost",
+      "name": "STEPWISE BOOST (رفع درجة)",
+      "when": [
+        "retake"
+      ],
+      "url": "https://t.me/ayedAcademy2026",
+      "reason": "سبق لك الاختبار — نركز على الأخطاء المتكررة ورفع الدرجة."
+    }
+  ],
+  "thresholds": {
+    "beg": 0,
+    "int": 60,
+    "adv": 80
+  }
+}

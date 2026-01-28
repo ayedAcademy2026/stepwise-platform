@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"initial\"",
+    "options": [
+      "shallow",
+      "fragile",
+      "temporary",
+      "first"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"initial\" is closest to \"first\"."
+  },
+  {
+    "id": 2,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"maintain\"",
+    "options": [
+      "unlikely",
+      "reckless",
+      "keep",
+      "fragile"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"maintain\" is closest to \"keep\"."
+  },
+  {
+    "id": 3,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"widespread\"",
+    "options": [
+      "rude",
+      "messy",
+      "ancient",
+      "common"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"widespread\" is closest to \"common\"."
+  },
+  {
+    "id": 4,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"maintain\"",
+    "options": [
+      "fragile",
+      "keep",
+      "shallow",
+      "crowded"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"maintain\" is closest to \"keep\"."
+  },
+  {
+    "id": 5,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"select\"",
+    "options": [
+      "temporary",
+      "random",
+      "choose",
+      "messy"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"select\" is closest to \"choose\"."
+  },
+  {
+    "id": 6,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"reinforce\"",
+    "options": [
+      "distant",
+      "messy",
+      "strengthen",
+      "random"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"reinforce\" is closest to \"strengthen\"."
+  },
+  {
+    "id": 7,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"obvious\"",
+    "options": [
+      "confused",
+      "rude",
+      "messy",
+      "clear"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"obvious\" is closest to \"clear\"."
+  },
+  {
+    "id": 8,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"scarce\"",
+    "options": [
+      "polite",
+      "ancient",
+      "narrow",
+      "rare"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"scarce\" is closest to \"rare\"."
+  },
+  {
+    "id": 9,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"nearly\"",
+    "options": [
+      "ancient",
+      "almost",
+      "weak",
+      "illegal"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"nearly\" is closest to \"almost\"."
+  },
+  {
+    "id": 10,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"final\"",
+    "options": [
+      "confused",
+      "rude",
+      "temporary",
+      "last"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"final\" is closest to \"last\"."
+  },
+  {
+    "id": 11,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"initial\"",
+    "options": [
+      "first",
+      "weak",
+      "distant",
+      "empty"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"initial\" is closest to \"first\"."
+  },
+  {
+    "id": 12,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"assist\"",
+    "options": [
+      "help",
+      "ancient",
+      "awkward",
+      "confused"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"assist\" is closest to \"help\"."
+  },
+  {
+    "id": 13,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"nearly\"",
+    "options": [
+      "shallow",
+      "distant",
+      "almost",
+      "illegal"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"nearly\" is closest to \"almost\"."
+  },
+  {
+    "id": 14,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"decline\"",
+    "options": [
+      "refuse",
+      "reckless",
+      "confused",
+      "fragile"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"decline\" is closest to \"refuse\"."
+  },
+  {
+    "id": 15,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"resolve\"",
+    "options": [
+      "solve",
+      "ancient",
+      "confused",
+      "narrow"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"resolve\" is closest to \"solve\"."
+  },
+  {
+    "id": 16,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"confirm\"",
+    "options": [
+      "rude",
+      "verify",
+      "messy",
+      "awkward"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"confirm\" is closest to \"verify\"."
+  },
+  {
+    "id": 17,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"appropriate\"",
+    "options": [
+      "suitable",
+      "narrow",
+      "temporary",
+      "ancient"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"appropriate\" is closest to \"suitable\"."
+  },
+  {
+    "id": 18,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"observe\"",
+    "options": [
+      "crowded",
+      "narrow",
+      "notice",
+      "awkward"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"observe\" is closest to \"notice\"."
+  },
+  {
+    "id": 19,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"permit\"",
+    "options": [
+      "allow",
+      "crowded",
+      "weak",
+      "empty"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"permit\" is closest to \"allow\"."
+  },
+  {
+    "id": 20,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"resolve\"",
+    "options": [
+      "random",
+      "confused",
+      "solve",
+      "shallow"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"resolve\" is closest to \"solve\"."
+  },
+  {
+    "id": 21,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"obvious\"",
+    "options": [
+      "careless",
+      "random",
+      "narrow",
+      "clear"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"obvious\" is closest to \"clear\"."
+  },
+  {
+    "id": 22,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"vital\"",
+    "options": [
+      "messy",
+      "temporary",
+      "crowded",
+      "essential"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"vital\" is closest to \"essential\"."
+  },
+  {
+    "id": 23,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"obvious\"",
+    "options": [
+      "shallow",
+      "temporary",
+      "weak",
+      "clear"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"obvious\" is closest to \"clear\"."
+  },
+  {
+    "id": 24,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"decline\"",
+    "options": [
+      "random",
+      "refuse",
+      "confused",
+      "careless"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"decline\" is closest to \"refuse\"."
+  },
+  {
+    "id": 25,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"appropriate\"",
+    "options": [
+      "awkward",
+      "random",
+      "empty",
+      "suitable"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"appropriate\" is closest to \"suitable\"."
+  },
+  {
+    "id": 26,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"reluctant\"",
+    "options": [
+      "unlikely",
+      "distant",
+      "reckless",
+      "unwilling"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"reluctant\" is closest to \"unwilling\"."
+  },
+  {
+    "id": 27,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"scarce\"",
+    "options": [
+      "unlikely",
+      "awkward",
+      "ancient",
+      "rare"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"scarce\" is closest to \"rare\"."
+  },
+  {
+    "id": 28,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"final\"",
+    "options": [
+      "polite",
+      "last",
+      "reckless",
+      "weak"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"final\" is closest to \"last\"."
+  },
+  {
+    "id": 29,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"observe\"",
+    "options": [
+      "awkward",
+      "notice",
+      "silent",
+      "distant"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"observe\" is closest to \"notice\"."
+  },
+  {
+    "id": 30,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"purchase\"",
+    "options": [
+      "buy",
+      "distant",
+      "careless",
+      "ancient"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"purchase\" is closest to \"buy\"."
+  },
+  {
+    "id": 31,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"reinforce\"",
+    "options": [
+      "reckless",
+      "strengthen",
+      "empty",
+      "confused"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"reinforce\" is closest to \"strengthen\"."
+  },
+  {
+    "id": 32,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"assist\"",
+    "options": [
+      "reckless",
+      "shallow",
+      "random",
+      "help"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"assist\" is closest to \"help\"."
+  },
+  {
+    "id": 33,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"final\"",
+    "options": [
+      "shallow",
+      "last",
+      "ancient",
+      "careless"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"final\" is closest to \"last\"."
+  },
+  {
+    "id": 34,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"brief\"",
+    "options": [
+      "concise",
+      "narrow",
+      "temporary",
+      "silent"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"brief\" is closest to \"concise\"."
+  },
+  {
+    "id": 35,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"appropriate\"",
+    "options": [
+      "suitable",
+      "confused",
+      "distant",
+      "weak"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"appropriate\" is closest to \"suitable\"."
+  },
+  {
+    "id": 36,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"vital\"",
+    "options": [
+      "essential",
+      "temporary",
+      "random",
+      "unlikely"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"vital\" is closest to \"essential\"."
+  },
+  {
+    "id": 37,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"contribute\"",
+    "options": [
+      "illegal",
+      "unlikely",
+      "reckless",
+      "add"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"contribute\" is closest to \"add\"."
+  },
+  {
+    "id": 38,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"select\"",
+    "options": [
+      "temporary",
+      "distant",
+      "fragile",
+      "choose"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"select\" is closest to \"choose\"."
+  },
+  {
+    "id": 39,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"predict\"",
+    "options": [
+      "messy",
+      "unlikely",
+      "temporary",
+      "anticipate"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"predict\" is closest to \"anticipate\"."
+  },
+  {
+    "id": 40,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"vital\"",
+    "options": [
+      "confused",
+      "temporary",
+      "essential",
+      "narrow"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"vital\" is closest to \"essential\"."
+  },
+  {
+    "id": 41,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"essentially\"",
+    "options": [
+      "fragile",
+      "messy",
+      "basically",
+      "random"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"essentially\" is closest to \"basically\"."
+  },
+  {
+    "id": 42,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"accurate\"",
+    "options": [
+      "careless",
+      "correct",
+      "unlikely",
+      "messy"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"accurate\" is closest to \"correct\"."
+  },
+  {
+    "id": 43,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"reinforce\"",
+    "options": [
+      "strengthen",
+      "awkward",
+      "careless",
+      "unlikely"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"reinforce\" is closest to \"strengthen\"."
+  },
+  {
+    "id": 44,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"contribute\"",
+    "options": [
+      "messy",
+      "careless",
+      "reckless",
+      "add"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"contribute\" is closest to \"add\"."
+  },
+  {
+    "id": 45,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"nearly\"",
+    "options": [
+      "almost",
+      "empty",
+      "polite",
+      "ancient"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"nearly\" is closest to \"almost\"."
+  },
+  {
+    "id": 46,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"scarce\"",
+    "options": [
+      "distant",
+      "random",
+      "rare",
+      "temporary"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"scarce\" is closest to \"rare\"."
+  },
+  {
+    "id": 47,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"avoid\"",
+    "options": [
+      "shallow",
+      "prevent",
+      "confused",
+      "random"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"avoid\" is closest to \"prevent\"."
+  },
+  {
+    "id": 48,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"confirm\"",
+    "options": [
+      "empty",
+      "verify",
+      "shallow",
+      "unlikely"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"confirm\" is closest to \"verify\"."
+  },
+  {
+    "id": 49,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"assist\"",
+    "options": [
+      "distant",
+      "silent",
+      "empty",
+      "help"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"assist\" is closest to \"help\"."
+  },
+  {
+    "id": 50,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"final\"",
+    "options": [
+      "illegal",
+      "weak",
+      "unlikely",
+      "last"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"final\" is closest to \"last\"."
+  },
+  {
+    "id": 51,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"assist\"",
+    "options": [
+      "help",
+      "awkward",
+      "narrow",
+      "fragile"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"assist\" is closest to \"help\"."
+  },
+  {
+    "id": 52,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"contribute\"",
+    "options": [
+      "add",
+      "shallow",
+      "messy",
+      "temporary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"contribute\" is closest to \"add\"."
+  },
+  {
+    "id": 53,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"efficient\"",
+    "options": [
+      "effective",
+      "narrow",
+      "rude",
+      "fragile"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"efficient\" is closest to \"effective\"."
+  },
+  {
+    "id": 54,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"assist\"",
+    "options": [
+      "awkward",
+      "help",
+      "ancient",
+      "weak"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"assist\" is closest to \"help\"."
+  },
+  {
+    "id": 55,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"eventually\"",
+    "options": [
+      "empty",
+      "finally",
+      "silent",
+      "messy"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"eventually\" is closest to \"finally\"."
+  },
+  {
+    "id": 56,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"widespread\"",
+    "options": [
+      "awkward",
+      "random",
+      "narrow",
+      "common"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"widespread\" is closest to \"common\"."
+  },
+  {
+    "id": 57,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"scarce\"",
+    "options": [
+      "illegal",
+      "reckless",
+      "rare",
+      "unlikely"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"scarce\" is closest to \"rare\"."
+  },
+  {
+    "id": 58,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"purchase\"",
+    "options": [
+      "awkward",
+      "buy",
+      "fragile",
+      "silent"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"purchase\" is closest to \"buy\"."
+  },
+  {
+    "id": 59,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"essentially\"",
+    "options": [
+      "basically",
+      "random",
+      "careless",
+      "polite"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"essentially\" is closest to \"basically\"."
+  },
+  {
+    "id": 60,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"resolve\"",
+    "options": [
+      "reckless",
+      "solve",
+      "unlikely",
+      "illegal"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"resolve\" is closest to \"solve\"."
+  },
+  {
+    "id": 61,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"predict\"",
+    "options": [
+      "fragile",
+      "distant",
+      "anticipate",
+      "shallow"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"predict\" is closest to \"anticipate\"."
+  },
+  {
+    "id": 62,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"contribute\"",
+    "options": [
+      "rude",
+      "narrow",
+      "fragile",
+      "add"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"contribute\" is closest to \"add\"."
+  },
+  {
+    "id": 63,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"expand\"",
+    "options": [
+      "illegal",
+      "weak",
+      "increase",
+      "polite"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"expand\" is closest to \"increase\"."
+  },
+  {
+    "id": 64,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"efficient\"",
+    "options": [
+      "awkward",
+      "effective",
+      "careless",
+      "silent"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"efficient\" is closest to \"effective\"."
+  },
+  {
+    "id": 65,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"significant\"",
+    "options": [
+      "reckless",
+      "important",
+      "illegal",
+      "distant"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"significant\" is closest to \"important\"."
+  },
+  {
+    "id": 66,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"assist\"",
+    "options": [
+      "help",
+      "awkward",
+      "confused",
+      "unlikely"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"assist\" is closest to \"help\"."
+  },
+  {
+    "id": 67,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"contribute\"",
+    "options": [
+      "shallow",
+      "temporary",
+      "ancient",
+      "add"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"contribute\" is closest to \"add\"."
+  },
+  {
+    "id": 68,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"scarce\"",
+    "options": [
+      "polite",
+      "rare",
+      "crowded",
+      "ancient"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"scarce\" is closest to \"rare\"."
+  },
+  {
+    "id": 69,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"observe\"",
+    "options": [
+      "temporary",
+      "weak",
+      "notice",
+      "illegal"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"observe\" is closest to \"notice\"."
+  },
+  {
+    "id": 70,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"predict\"",
+    "options": [
+      "unlikely",
+      "crowded",
+      "anticipate",
+      "silent"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"predict\" is closest to \"anticipate\"."
+  },
+  {
+    "id": 71,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"predict\"",
+    "options": [
+      "shallow",
+      "anticipate",
+      "distant",
+      "random"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"predict\" is closest to \"anticipate\"."
+  },
+  {
+    "id": 72,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"reluctant\"",
+    "options": [
+      "messy",
+      "confused",
+      "polite",
+      "unwilling"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"reluctant\" is closest to \"unwilling\"."
+  },
+  {
+    "id": 73,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"assist\"",
+    "options": [
+      "help",
+      "unlikely",
+      "confused",
+      "ancient"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"assist\" is closest to \"help\"."
+  },
+  {
+    "id": 74,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"obvious\"",
+    "options": [
+      "careless",
+      "confused",
+      "polite",
+      "clear"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"obvious\" is closest to \"clear\"."
+  },
+  {
+    "id": 75,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"expand\"",
+    "options": [
+      "weak",
+      "reckless",
+      "fragile",
+      "increase"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"expand\" is closest to \"increase\"."
+  },
+  {
+    "id": 76,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"contribute\"",
+    "options": [
+      "add",
+      "weak",
+      "illegal",
+      "crowded"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"contribute\" is closest to \"add\"."
+  },
+  {
+    "id": 77,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"observe\"",
+    "options": [
+      "notice",
+      "random",
+      "awkward",
+      "reckless"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"observe\" is closest to \"notice\"."
+  },
+  {
+    "id": 78,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"eventually\"",
+    "options": [
+      "messy",
+      "finally",
+      "careless",
+      "random"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"eventually\" is closest to \"finally\"."
+  },
+  {
+    "id": 79,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"reluctant\"",
+    "options": [
+      "illegal",
+      "unwilling",
+      "ancient",
+      "careless"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"reluctant\" is closest to \"unwilling\"."
+  },
+  {
+    "id": 80,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"obvious\"",
+    "options": [
+      "temporary",
+      "ancient",
+      "crowded",
+      "clear"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"obvious\" is closest to \"clear\"."
+  },
+  {
+    "id": 81,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"efficient\"",
+    "options": [
+      "polite",
+      "distant",
+      "random",
+      "effective"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"efficient\" is closest to \"effective\"."
+  },
+  {
+    "id": 82,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"brief\"",
+    "options": [
+      "silent",
+      "confused",
+      "concise",
+      "careless"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"brief\" is closest to \"concise\"."
+  },
+  {
+    "id": 83,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"purchase\"",
+    "options": [
+      "buy",
+      "shallow",
+      "random",
+      "empty"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"purchase\" is closest to \"buy\"."
+  },
+  {
+    "id": 84,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"resolve\"",
+    "options": [
+      "solve",
+      "reckless",
+      "random",
+      "silent"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"resolve\" is closest to \"solve\"."
+  },
+  {
+    "id": 85,
+    "section": "Vocabulary",
+    "difficulty": 1,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"resolve\"",
+    "options": [
+      "solve",
+      "ancient",
+      "shallow",
+      "crowded"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"resolve\" is closest to \"solve\"."
+  },
+  {
+    "id": 86,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"efficient\"",
+    "options": [
+      "fragile",
+      "effective",
+      "illegal",
+      "random"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"efficient\" is closest to \"effective\"."
+  },
+  {
+    "id": 87,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"initial\"",
+    "options": [
+      "reckless",
+      "rude",
+      "distant",
+      "first"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"initial\" is closest to \"first\"."
+  },
+  {
+    "id": 88,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"obvious\"",
+    "options": [
+      "ancient",
+      "fragile",
+      "clear",
+      "rude"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"obvious\" is closest to \"clear\"."
+  },
+  {
+    "id": 89,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"expand\"",
+    "options": [
+      "messy",
+      "fragile",
+      "increase",
+      "confused"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"expand\" is closest to \"increase\"."
+  },
+  {
+    "id": 90,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"final\"",
+    "options": [
+      "last",
+      "shallow",
+      "awkward",
+      "illegal"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"final\" is closest to \"last\"."
+  },
+  {
+    "id": 91,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "Hardly had he arrived ___ it started to rain.",
+    "options": [
+      "than",
+      "when",
+      "while",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Hardly...when."
+  },
+  {
+    "id": 92,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "She bought ___ umbrella because it was raining.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Umbrella starts with vowel sound → an."
+  },
+  {
+    "id": 93,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "How ___ information do you need?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Information is uncountable → much."
+  },
+  {
+    "id": 94,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "The report needs ___ before submission.",
+    "options": [
+      "review",
+      "reviewing",
+      "reviewed",
+      "to reviewed"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Need + gerund fits."
+  },
+  {
+    "id": 95,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "He suggested that she ___ earlier.",
+    "options": [
+      "leave",
+      "left",
+      "leaves",
+      "leaving"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Suggest + base verb."
+  },
+  {
+    "id": 96,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "I wish I ___ more careful yesterday.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "had been"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "Wish about past → had been."
+  },
+  {
+    "id": 97,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "I wish I ___ more careful yesterday.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "had been"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "Wish about past → had been."
+  },
+  {
+    "id": 98,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "The book ___ I borrowed is excellent.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "For things: which/that."
+  },
+  {
+    "id": 99,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 100,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "How ___ information do you need?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Information is uncountable → much."
+  },
+  {
+    "id": 101,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "By this time tomorrow, we ___ the project.",
+    "options": [
+      "finish",
+      "will finish",
+      "will have finished",
+      "finished"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "Future perfect for completion before a future time."
+  },
+  {
+    "id": 102,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "How ___ information do you need?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Information is uncountable → much."
+  },
+  {
+    "id": 103,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "This is the first time I ___ this city.",
+    "options": [
+      "visit",
+      "visited",
+      "have visited",
+      "had visited"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "First time + present perfect."
+  },
+  {
+    "id": 104,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 105,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 106,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "Not only ___ she finish early, but she also helped others.",
+    "options": [
+      "did",
+      "does",
+      "do",
+      "had"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Inversion after Not only → did + base."
+  },
+  {
+    "id": 107,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "Not only ___ she finish early, but she also helped others.",
+    "options": [
+      "did",
+      "does",
+      "do",
+      "had"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Inversion after Not only → did + base."
+  },
+  {
+    "id": 108,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 109,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 110,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "They ___ here since 2020.",
+    "options": [
+      "live",
+      "have lived",
+      "are living",
+      "lived"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Since + point → present perfect."
+  },
+  {
+    "id": 111,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 112,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "The student, along with his friends, ___ joining the club.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Along with doesn't change singular subject → is."
+  },
+  {
+    "id": 113,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "The report needs ___ before submission.",
+    "options": [
+      "review",
+      "reviewing",
+      "reviewed",
+      "to reviewed"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Need + gerund fits."
+  },
+  {
+    "id": 114,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 115,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 116,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "Hardly had he arrived ___ it started to rain.",
+    "options": [
+      "than",
+      "when",
+      "while",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Hardly...when."
+  },
+  {
+    "id": 117,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "I wish I ___ more careful yesterday.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "had been"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "Wish about past → had been."
+  },
+  {
+    "id": 118,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "The meeting was canceled ___ the storm.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "unless"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Because of + noun."
+  },
+  {
+    "id": 119,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "The book ___ I borrowed is excellent.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "For things: which/that."
+  },
+  {
+    "id": 120,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "Not only ___ she finish early, but she also helped others.",
+    "options": [
+      "did",
+      "does",
+      "do",
+      "had"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Inversion after Not only → did + base."
+  },
+  {
+    "id": 121,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "So much traffic ___ that we arrived late.",
+    "options": [
+      "was there",
+      "there was",
+      "there were",
+      "were"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "There was is correct."
+  },
+  {
+    "id": 122,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "If I ___ enough time, I will help you.",
+    "options": [
+      "have",
+      "had",
+      "having",
+      "has"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "First conditional: If + present, will + base."
+  },
+  {
+    "id": 123,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "Hardly had he arrived ___ it started to rain.",
+    "options": [
+      "than",
+      "when",
+      "while",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Hardly...when."
+  },
+  {
+    "id": 124,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "I wish I ___ more careful yesterday.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "had been"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "Wish about past → had been."
+  },
+  {
+    "id": 125,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "This is the first time I ___ this city.",
+    "options": [
+      "visit",
+      "visited",
+      "have visited",
+      "had visited"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "First time + present perfect."
+  },
+  {
+    "id": 126,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "This is the first time I ___ this city.",
+    "options": [
+      "visit",
+      "visited",
+      "have visited",
+      "had visited"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "First time + present perfect."
+  },
+  {
+    "id": 127,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "The book ___ I borrowed is excellent.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "For things: which/that."
+  },
+  {
+    "id": 128,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "Neither the teacher nor the students ___ late.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Verb agrees with nearest subject (students → were)."
+  },
+  {
+    "id": 129,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "How ___ information do you need?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Information is uncountable → much."
+  },
+  {
+    "id": 130,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "They ___ here since 2020.",
+    "options": [
+      "live",
+      "have lived",
+      "are living",
+      "lived"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Since + point → present perfect."
+  },
+  {
+    "id": 131,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "The book ___ I borrowed is excellent.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "For things: which/that."
+  },
+  {
+    "id": 132,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "So much traffic ___ that we arrived late.",
+    "options": [
+      "was there",
+      "there was",
+      "there were",
+      "were"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "There was is correct."
+  },
+  {
+    "id": 133,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "The meeting was canceled ___ the storm.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "unless"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Because of + noun."
+  },
+  {
+    "id": 134,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 135,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "Not only ___ she finish early, but she also helped others.",
+    "options": [
+      "did",
+      "does",
+      "do",
+      "had"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Inversion after Not only → did + base."
+  },
+  {
+    "id": 136,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "Neither the teacher nor the students ___ late.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Verb agrees with nearest subject (students → were)."
+  },
+  {
+    "id": 137,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "The meeting was canceled ___ the storm.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "unless"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Because of + noun."
+  },
+  {
+    "id": 138,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "So much traffic ___ that we arrived late.",
+    "options": [
+      "was there",
+      "there was",
+      "there were",
+      "were"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "There was is correct."
+  },
+  {
+    "id": 139,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "Hardly had he arrived ___ it started to rain.",
+    "options": [
+      "than",
+      "when",
+      "while",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Hardly...when."
+  },
+  {
+    "id": 140,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "This is the first time I ___ this city.",
+    "options": [
+      "visit",
+      "visited",
+      "have visited",
+      "had visited"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "First time + present perfect."
+  },
+  {
+    "id": 141,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "If I ___ enough time, I will help you.",
+    "options": [
+      "have",
+      "had",
+      "having",
+      "has"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "First conditional: If + present, will + base."
+  },
+  {
+    "id": 142,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "He suggested that she ___ earlier.",
+    "options": [
+      "leave",
+      "left",
+      "leaves",
+      "leaving"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Suggest + base verb."
+  },
+  {
+    "id": 143,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "I wish I ___ more careful yesterday.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "had been"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "Wish about past → had been."
+  },
+  {
+    "id": 144,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "By this time tomorrow, we ___ the project.",
+    "options": [
+      "finish",
+      "will finish",
+      "will have finished",
+      "finished"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "Future perfect for completion before a future time."
+  },
+  {
+    "id": 145,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "Each of the answers ___ checked twice.",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Each = singular → has."
+  },
+  {
+    "id": 146,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "This is the first time I ___ this city.",
+    "options": [
+      "visit",
+      "visited",
+      "have visited",
+      "had visited"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "First time + present perfect."
+  },
+  {
+    "id": 147,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "This is the first time I ___ this city.",
+    "options": [
+      "visit",
+      "visited",
+      "have visited",
+      "had visited"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "First time + present perfect."
+  },
+  {
+    "id": 148,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "Not only ___ she finish early, but she also helped others.",
+    "options": [
+      "did",
+      "does",
+      "do",
+      "had"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Inversion after Not only → did + base."
+  },
+  {
+    "id": 149,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "They ___ here since 2020.",
+    "options": [
+      "live",
+      "have lived",
+      "are living",
+      "lived"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Since + point → present perfect."
+  },
+  {
+    "id": 150,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 151,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "Not only ___ she finish early, but she also helped others.",
+    "options": [
+      "did",
+      "does",
+      "do",
+      "had"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Inversion after Not only → did + base."
+  },
+  {
+    "id": 152,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 153,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "Not only ___ she finish early, but she also helped others.",
+    "options": [
+      "did",
+      "does",
+      "do",
+      "had"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Inversion after Not only → did + base."
+  },
+  {
+    "id": 154,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "This is the first time I ___ this city.",
+    "options": [
+      "visit",
+      "visited",
+      "have visited",
+      "had visited"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "First time + present perfect."
+  },
+  {
+    "id": 155,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "They ___ here since 2020.",
+    "options": [
+      "live",
+      "have lived",
+      "are living",
+      "lived"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Since + point → present perfect."
+  },
+  {
+    "id": 156,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "Not only ___ she finish early, but she also helped others.",
+    "options": [
+      "did",
+      "does",
+      "do",
+      "had"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Inversion after Not only → did + base."
+  },
+  {
+    "id": 157,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "Hardly had he arrived ___ it started to rain.",
+    "options": [
+      "than",
+      "when",
+      "while",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Hardly...when."
+  },
+  {
+    "id": 158,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "If I ___ enough time, I will help you.",
+    "options": [
+      "have",
+      "had",
+      "having",
+      "has"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "First conditional: If + present, will + base."
+  },
+  {
+    "id": 159,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "The report needs ___ before submission.",
+    "options": [
+      "review",
+      "reviewing",
+      "reviewed",
+      "to reviewed"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Need + gerund fits."
+  },
+  {
+    "id": 160,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 161,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 162,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 163,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "I wish I ___ more careful yesterday.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "had been"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "Wish about past → had been."
+  },
+  {
+    "id": 164,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 165,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "Neither the teacher nor the students ___ late.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Verb agrees with nearest subject (students → were)."
+  },
+  {
+    "id": 166,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "Each of the answers ___ checked twice.",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Each = singular → has."
+  },
+  {
+    "id": 167,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "She bought ___ umbrella because it was raining.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Umbrella starts with vowel sound → an."
+  },
+  {
+    "id": 168,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "Each of the answers ___ checked twice.",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Each = singular → has."
+  },
+  {
+    "id": 169,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "They ___ here since 2020.",
+    "options": [
+      "live",
+      "have lived",
+      "are living",
+      "lived"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Since + point → present perfect."
+  },
+  {
+    "id": 170,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "The book ___ I borrowed is excellent.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "For things: which/that."
+  },
+  {
+    "id": 171,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "They ___ here since 2020.",
+    "options": [
+      "live",
+      "have lived",
+      "are living",
+      "lived"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Since + point → present perfect."
+  },
+  {
+    "id": 172,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "If I ___ enough time, I will help you.",
+    "options": [
+      "have",
+      "had",
+      "having",
+      "has"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "First conditional: If + present, will + base."
+  },
+  {
+    "id": 173,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "The book ___ I borrowed is excellent.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "For things: which/that."
+  },
+  {
+    "id": 174,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "They ___ here since 2020.",
+    "options": [
+      "live",
+      "have lived",
+      "are living",
+      "lived"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Since + point → present perfect."
+  },
+  {
+    "id": 175,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "She bought ___ umbrella because it was raining.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Umbrella starts with vowel sound → an."
+  },
+  {
+    "id": 176,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "I wish I ___ more careful yesterday.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "had been"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "Wish about past → had been."
+  },
+  {
+    "id": 177,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "Neither the teacher nor the students ___ late.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Verb agrees with nearest subject (students → were)."
+  },
+  {
+    "id": 178,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "She bought ___ umbrella because it was raining.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Umbrella starts with vowel sound → an."
+  },
+  {
+    "id": 179,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 180,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "The report needs ___ before submission.",
+    "options": [
+      "review",
+      "reviewing",
+      "reviewed",
+      "to reviewed"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Need + gerund fits."
+  },
+  {
+    "id": 181,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "They ___ here since 2020.",
+    "options": [
+      "live",
+      "have lived",
+      "are living",
+      "lived"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Since + point → present perfect."
+  },
+  {
+    "id": 182,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "Hardly had he arrived ___ it started to rain.",
+    "options": [
+      "than",
+      "when",
+      "while",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Hardly...when."
+  },
+  {
+    "id": 183,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "By this time tomorrow, we ___ the project.",
+    "options": [
+      "finish",
+      "will finish",
+      "will have finished",
+      "finished"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "Future perfect for completion before a future time."
+  },
+  {
+    "id": 184,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "She bought ___ umbrella because it was raining.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Umbrella starts with vowel sound → an."
+  },
+  {
+    "id": 185,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "If I ___ enough time, I will help you.",
+    "options": [
+      "have",
+      "had",
+      "having",
+      "has"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "First conditional: If + present, will + base."
+  },
+  {
+    "id": 186,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 187,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "The student, along with his friends, ___ joining the club.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Along with doesn't change singular subject → is."
+  },
+  {
+    "id": 188,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "Neither the teacher nor the students ___ late.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Verb agrees with nearest subject (students → were)."
+  },
+  {
+    "id": 189,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 190,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "The student, along with his friends, ___ joining the club.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Along with doesn't change singular subject → is."
+  },
+  {
+    "id": 191,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "Not only ___ she finish early, but she also helped others.",
+    "options": [
+      "did",
+      "does",
+      "do",
+      "had"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Inversion after Not only → did + base."
+  },
+  {
+    "id": 192,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "They ___ here since 2020.",
+    "options": [
+      "live",
+      "have lived",
+      "are living",
+      "lived"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Since + point → present perfect."
+  },
+  {
+    "id": 193,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 194,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "He suggested that she ___ earlier.",
+    "options": [
+      "leave",
+      "left",
+      "leaves",
+      "leaving"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Suggest + base verb."
+  },
+  {
+    "id": 195,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 196,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "The student, along with his friends, ___ joining the club.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Along with doesn't change singular subject → is."
+  },
+  {
+    "id": 197,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "If I ___ enough time, I will help you.",
+    "options": [
+      "have",
+      "had",
+      "having",
+      "has"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "First conditional: If + present, will + base."
+  },
+  {
+    "id": 198,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "This is the first time I ___ this city.",
+    "options": [
+      "visit",
+      "visited",
+      "have visited",
+      "had visited"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "First time + present perfect."
+  },
+  {
+    "id": 199,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "They ___ here since 2020.",
+    "options": [
+      "live",
+      "have lived",
+      "are living",
+      "lived"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Since + point → present perfect."
+  },
+  {
+    "id": 200,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "They ___ here since 2020.",
+    "options": [
+      "live",
+      "have lived",
+      "are living",
+      "lived"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Since + point → present perfect."
+  },
+  {
+    "id": 201,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "How ___ information do you need?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Information is uncountable → much."
+  },
+  {
+    "id": 202,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 203,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "How ___ information do you need?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Information is uncountable → much."
+  },
+  {
+    "id": 204,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "By this time tomorrow, we ___ the project.",
+    "options": [
+      "finish",
+      "will finish",
+      "will have finished",
+      "finished"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "Future perfect for completion before a future time."
+  },
+  {
+    "id": 205,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 206,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "She apologized for ___ the meeting.",
+    "options": [
+      "miss",
+      "to miss",
+      "missing",
+      "missed"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "For + gerund (missing)."
+  },
+  {
+    "id": 207,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 208,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 209,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "If I ___ enough time, I will help you.",
+    "options": [
+      "have",
+      "had",
+      "having",
+      "has"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "First conditional: If + present, will + base."
+  },
+  {
+    "id": 210,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "How ___ information do you need?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Information is uncountable → much."
+  },
+  {
+    "id": 211,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 212,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Researchers tested two teaching methods. Both improved scores, but the interactive method helped low-performing students more.\"\nQuestion: Best conclusion?",
+    "options": [
+      "Interactive teaching benefits some students more",
+      "Both methods failed",
+      "Only lectures work",
+      "Scores did not change"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Interactive helped low performers more."
+  },
+  {
+    "id": 213,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Researchers tested two teaching methods. Both improved scores, but the interactive method helped low-performing students more.\"\nQuestion: Best conclusion?",
+    "options": [
+      "Interactive teaching benefits some students more",
+      "Both methods failed",
+      "Only lectures work",
+      "Scores did not change"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Interactive helped low performers more."
+  },
+  {
+    "id": 214,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Researchers tested two teaching methods. Both improved scores, but the interactive method helped low-performing students more.\"\nQuestion: Best conclusion?",
+    "options": [
+      "Interactive teaching benefits some students more",
+      "Both methods failed",
+      "Only lectures work",
+      "Scores did not change"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Interactive helped low performers more."
+  },
+  {
+    "id": 215,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 216,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 217,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Reduced waiting times; training needed."
+  },
+  {
+    "id": 218,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Reduced waiting times; training needed."
+  },
+  {
+    "id": 219,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Many cities are planting trees to lower temperatures. Trees provide shade and release moisture, which can cool nearby streets.\"\nQuestion: Purpose of planting trees?",
+    "options": [
+      "To reduce heat in cities",
+      "To block all sunlight",
+      "To increase traffic",
+      "To remove buildings"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Cooling effect is the purpose."
+  },
+  {
+    "id": 220,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"A recent survey found that students who planned their study time performed better. The key factor was consistency rather than long sessions.\"\nQuestion: What helped students most?",
+    "options": [
+      "Consistent study habits",
+      "Studying all night",
+      "Skipping breaks",
+      "Studying only on weekends"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Consistency is the key factor."
+  },
+  {
+    "id": 221,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Researchers tested two teaching methods. Both improved scores, but the interactive method helped low-performing students more.\"\nQuestion: Best conclusion?",
+    "options": [
+      "Interactive teaching benefits some students more",
+      "Both methods failed",
+      "Only lectures work",
+      "Scores did not change"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Interactive helped low performers more."
+  },
+  {
+    "id": 222,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Many cities are planting trees to lower temperatures. Trees provide shade and release moisture, which can cool nearby streets.\"\nQuestion: Purpose of planting trees?",
+    "options": [
+      "To reduce heat in cities",
+      "To block all sunlight",
+      "To increase traffic",
+      "To remove buildings"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Cooling effect is the purpose."
+  },
+  {
+    "id": 223,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Many cities are planting trees to lower temperatures. Trees provide shade and release moisture, which can cool nearby streets.\"\nQuestion: Purpose of planting trees?",
+    "options": [
+      "To reduce heat in cities",
+      "To block all sunlight",
+      "To increase traffic",
+      "To remove buildings"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Cooling effect is the purpose."
+  },
+  {
+    "id": 224,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Researchers tested two teaching methods. Both improved scores, but the interactive method helped low-performing students more.\"\nQuestion: Best conclusion?",
+    "options": [
+      "Interactive teaching benefits some students more",
+      "Both methods failed",
+      "Only lectures work",
+      "Scores did not change"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Interactive helped low performers more."
+  },
+  {
+    "id": 225,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 226,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health by strengthening the cardiovascular system.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise provides multiple benefits",
+      "Sleep is unnecessary",
+      "Heart health depends only on diet",
+      "Exercise has no effect on mood"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It lists several benefits → overall benefits."
+  },
+  {
+    "id": 227,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Researchers tested two teaching methods. Both improved scores, but the interactive method helped low-performing students more.\"\nQuestion: Best conclusion?",
+    "options": [
+      "Interactive teaching benefits some students more",
+      "Both methods failed",
+      "Only lectures work",
+      "Scores did not change"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Interactive helped low performers more."
+  },
+  {
+    "id": 228,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 229,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health by strengthening the cardiovascular system.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise provides multiple benefits",
+      "Sleep is unnecessary",
+      "Heart health depends only on diet",
+      "Exercise has no effect on mood"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It lists several benefits → overall benefits."
+  },
+  {
+    "id": 230,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"A recent survey found that students who planned their study time performed better. The key factor was consistency rather than long sessions.\"\nQuestion: What helped students most?",
+    "options": [
+      "Consistent study habits",
+      "Studying all night",
+      "Skipping breaks",
+      "Studying only on weekends"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Consistency is the key factor."
+  },
+  {
+    "id": 231,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 232,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Researchers tested two teaching methods. Both improved scores, but the interactive method helped low-performing students more.\"\nQuestion: Best conclusion?",
+    "options": [
+      "Interactive teaching benefits some students more",
+      "Both methods failed",
+      "Only lectures work",
+      "Scores did not change"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Interactive helped low performers more."
+  },
+  {
+    "id": 233,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Reduced waiting times; training needed."
+  },
+  {
+    "id": 234,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 235,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 236,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Researchers tested two teaching methods. Both improved scores, but the interactive method helped low-performing students more.\"\nQuestion: Best conclusion?",
+    "options": [
+      "Interactive teaching benefits some students more",
+      "Both methods failed",
+      "Only lectures work",
+      "Scores did not change"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Interactive helped low performers more."
+  },
+  {
+    "id": 237,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Reduced waiting times; training needed."
+  },
+  {
+    "id": 238,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"A recent survey found that students who planned their study time performed better. The key factor was consistency rather than long sessions.\"\nQuestion: What helped students most?",
+    "options": [
+      "Consistent study habits",
+      "Studying all night",
+      "Skipping breaks",
+      "Studying only on weekends"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Consistency is the key factor."
+  },
+  {
+    "id": 239,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"A recent survey found that students who planned their study time performed better. The key factor was consistency rather than long sessions.\"\nQuestion: What helped students most?",
+    "options": [
+      "Consistent study habits",
+      "Studying all night",
+      "Skipping breaks",
+      "Studying only on weekends"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Consistency is the key factor."
+  },
+  {
+    "id": 240,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"A recent survey found that students who planned their study time performed better. The key factor was consistency rather than long sessions.\"\nQuestion: What helped students most?",
+    "options": [
+      "Consistent study habits",
+      "Studying all night",
+      "Skipping breaks",
+      "Studying only on weekends"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Consistency is the key factor."
+  },
+  {
+    "id": 241,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Reduced waiting times; training needed."
+  },
+  {
+    "id": 242,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 243,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 244,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 245,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 246,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Many cities are planting trees to lower temperatures. Trees provide shade and release moisture, which can cool nearby streets.\"\nQuestion: Purpose of planting trees?",
+    "options": [
+      "To reduce heat in cities",
+      "To block all sunlight",
+      "To increase traffic",
+      "To remove buildings"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Cooling effect is the purpose."
+  },
+  {
+    "id": 247,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"A recent survey found that students who planned their study time performed better. The key factor was consistency rather than long sessions.\"\nQuestion: What helped students most?",
+    "options": [
+      "Consistent study habits",
+      "Studying all night",
+      "Skipping breaks",
+      "Studying only on weekends"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Consistency is the key factor."
+  },
+  {
+    "id": 248,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Researchers tested two teaching methods. Both improved scores, but the interactive method helped low-performing students more.\"\nQuestion: Best conclusion?",
+    "options": [
+      "Interactive teaching benefits some students more",
+      "Both methods failed",
+      "Only lectures work",
+      "Scores did not change"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Interactive helped low performers more."
+  },
+  {
+    "id": 249,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 250,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Reduced waiting times; training needed."
+  },
+  {
+    "id": 251,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Reduced waiting times; training needed."
+  },
+  {
+    "id": 252,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health by strengthening the cardiovascular system.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise provides multiple benefits",
+      "Sleep is unnecessary",
+      "Heart health depends only on diet",
+      "Exercise has no effect on mood"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It lists several benefits → overall benefits."
+  },
+  {
+    "id": 253,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health by strengthening the cardiovascular system.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise provides multiple benefits",
+      "Sleep is unnecessary",
+      "Heart health depends only on diet",
+      "Exercise has no effect on mood"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It lists several benefits → overall benefits."
+  },
+  {
+    "id": 254,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 255,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"A recent survey found that students who planned their study time performed better. The key factor was consistency rather than long sessions.\"\nQuestion: What helped students most?",
+    "options": [
+      "Consistent study habits",
+      "Studying all night",
+      "Skipping breaks",
+      "Studying only on weekends"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Consistency is the key factor."
+  },
+  {
+    "id": 256,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"A recent survey found that students who planned their study time performed better. The key factor was consistency rather than long sessions.\"\nQuestion: What helped students most?",
+    "options": [
+      "Consistent study habits",
+      "Studying all night",
+      "Skipping breaks",
+      "Studying only on weekends"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Consistency is the key factor."
+  },
+  {
+    "id": 257,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health by strengthening the cardiovascular system.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise provides multiple benefits",
+      "Sleep is unnecessary",
+      "Heart health depends only on diet",
+      "Exercise has no effect on mood"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It lists several benefits → overall benefits."
+  },
+  {
+    "id": 258,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 259,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health by strengthening the cardiovascular system.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise provides multiple benefits",
+      "Sleep is unnecessary",
+      "Heart health depends only on diet",
+      "Exercise has no effect on mood"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It lists several benefits → overall benefits."
+  },
+  {
+    "id": 260,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Many cities are planting trees to lower temperatures. Trees provide shade and release moisture, which can cool nearby streets.\"\nQuestion: Purpose of planting trees?",
+    "options": [
+      "To reduce heat in cities",
+      "To block all sunlight",
+      "To increase traffic",
+      "To remove buildings"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Cooling effect is the purpose."
+  },
+  {
+    "id": 261,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Researchers tested two teaching methods. Both improved scores, but the interactive method helped low-performing students more.\"\nQuestion: Best conclusion?",
+    "options": [
+      "Interactive teaching benefits some students more",
+      "Both methods failed",
+      "Only lectures work",
+      "Scores did not change"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Interactive helped low performers more."
+  },
+  {
+    "id": 262,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Reduced waiting times; training needed."
+  },
+  {
+    "id": 263,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health by strengthening the cardiovascular system.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise provides multiple benefits",
+      "Sleep is unnecessary",
+      "Heart health depends only on diet",
+      "Exercise has no effect on mood"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It lists several benefits → overall benefits."
+  },
+  {
+    "id": 264,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was extremely hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain."
+  },
+  {
+    "id": 265,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"A recent survey found that students who planned their study time performed better. The key factor was consistency rather than long sessions.\"\nQuestion: What helped students most?",
+    "options": [
+      "Consistent study habits",
+      "Studying all night",
+      "Skipping breaks",
+      "Studying only on weekends"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Consistency is the key factor."
+  },
+  {
+    "id": 266,
+    "section": "Listening",
+    "difficulty": 2,
+    "skillTag": "listening",
+    "prompt": "You hear: Two colleagues discuss a meeting. One says it was moved to 3 PM in Room 210.\nQuestion: When and where is the meeting?",
+    "options": [
+      "3 PM, Room 210",
+      "2 PM, Room 120",
+      "3 AM, Room 210",
+      "1 PM, Room 201"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Moved to 3 PM in Room 210."
+  },
+  {
+    "id": 267,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: Two colleagues discuss a meeting. One says it was moved to 3 PM in Room 210.\nQuestion: When and where is the meeting?",
+    "options": [
+      "3 PM, Room 210",
+      "2 PM, Room 120",
+      "3 AM, Room 210",
+      "1 PM, Room 201"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Moved to 3 PM in Room 210."
+  },
+  {
+    "id": 268,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  },
+  {
+    "id": 269,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  },
+  {
+    "id": 270,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A traveler asks for directions. The clerk says to take the second left after the bank.\nQuestion: What should the traveler do?",
+    "options": [
+      "Take the second left after the bank",
+      "Turn right at the bank",
+      "Go straight past the park",
+      "Take the first left before the bank"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Second left after the bank."
+  },
+  {
+    "id": 271,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: Two colleagues discuss a meeting. One says it was moved to 3 PM in Room 210.\nQuestion: When and where is the meeting?",
+    "options": [
+      "3 PM, Room 210",
+      "2 PM, Room 120",
+      "3 AM, Room 210",
+      "1 PM, Room 201"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Moved to 3 PM in Room 210."
+  },
+  {
+    "id": 272,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  },
+  {
+    "id": 273,
+    "section": "Listening",
+    "difficulty": 4,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  },
+  {
+    "id": 274,
+    "section": "Listening",
+    "difficulty": 4,
+    "skillTag": "listening",
+    "prompt": "You hear: A lecturer says the first chapter is optional, but chapters 2–5 are required.\nQuestion: Which chapters are required?",
+    "options": [
+      "2–5",
+      "1 only",
+      "1–2",
+      "All chapters"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Chapters 2–5 required."
+  },
+  {
+    "id": 275,
+    "section": "Listening",
+    "difficulty": 4,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  },
+  {
+    "id": 276,
+    "section": "Listening",
+    "difficulty": 4,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  },
+  {
+    "id": 277,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A customer asks for a refund. The clerk says returns are accepted within 14 days with a receipt.\nQuestion: What is the return policy?",
+    "options": [
+      "Within 14 days with a receipt",
+      "Any time without proof",
+      "Only same-day returns",
+      "No returns allowed"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "14 days with receipt."
+  },
+  {
+    "id": 278,
+    "section": "Listening",
+    "difficulty": 2,
+    "skillTag": "listening",
+    "prompt": "You hear: A customer asks for a refund. The clerk says returns are accepted within 14 days with a receipt.\nQuestion: What is the return policy?",
+    "options": [
+      "Within 14 days with a receipt",
+      "Any time without proof",
+      "Only same-day returns",
+      "No returns allowed"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "14 days with receipt."
+  },
+  {
+    "id": 279,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A customer asks for a refund. The clerk says returns are accepted within 14 days with a receipt.\nQuestion: What is the return policy?",
+    "options": [
+      "Within 14 days with a receipt",
+      "Any time without proof",
+      "Only same-day returns",
+      "No returns allowed"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "14 days with receipt."
+  },
+  {
+    "id": 280,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A traveler asks for directions. The clerk says to take the second left after the bank.\nQuestion: What should the traveler do?",
+    "options": [
+      "Take the second left after the bank",
+      "Turn right at the bank",
+      "Go straight past the park",
+      "Take the first left before the bank"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Second left after the bank."
+  },
+  {
+    "id": 281,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A traveler asks for directions. The clerk says to take the second left after the bank.\nQuestion: What should the traveler do?",
+    "options": [
+      "Take the second left after the bank",
+      "Turn right at the bank",
+      "Go straight past the park",
+      "Take the first left before the bank"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Second left after the bank."
+  },
+  {
+    "id": 282,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A customer asks for a refund. The clerk says returns are accepted within 14 days with a receipt.\nQuestion: What is the return policy?",
+    "options": [
+      "Within 14 days with a receipt",
+      "Any time without proof",
+      "Only same-day returns",
+      "No returns allowed"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "14 days with receipt."
+  },
+  {
+    "id": 283,
+    "section": "Listening",
+    "difficulty": 2,
+    "skillTag": "listening",
+    "prompt": "You hear: A traveler asks for directions. The clerk says to take the second left after the bank.\nQuestion: What should the traveler do?",
+    "options": [
+      "Take the second left after the bank",
+      "Turn right at the bank",
+      "Go straight past the park",
+      "Take the first left before the bank"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Second left after the bank."
+  },
+  {
+    "id": 284,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A speaker describes a product as affordable but not very durable.\nQuestion: What is a drawback of the product?",
+    "options": [
+      "It may not last long",
+      "It is too expensive",
+      "It is difficult to use",
+      "It has no warranty"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Not durable = may not last long."
+  },
+  {
+    "id": 285,
+    "section": "Listening",
+    "difficulty": 4,
+    "skillTag": "listening",
+    "prompt": "You hear: A traveler asks for directions. The clerk says to take the second left after the bank.\nQuestion: What should the traveler do?",
+    "options": [
+      "Take the second left after the bank",
+      "Turn right at the bank",
+      "Go straight past the park",
+      "Take the first left before the bank"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Second left after the bank."
+  },
+  {
+    "id": 286,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  },
+  {
+    "id": 287,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A customer asks for a refund. The clerk says returns are accepted within 14 days with a receipt.\nQuestion: What is the return policy?",
+    "options": [
+      "Within 14 days with a receipt",
+      "Any time without proof",
+      "Only same-day returns",
+      "No returns allowed"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "14 days with receipt."
+  },
+  {
+    "id": 288,
+    "section": "Listening",
+    "difficulty": 4,
+    "skillTag": "listening",
+    "prompt": "You hear: A traveler asks for directions. The clerk says to take the second left after the bank.\nQuestion: What should the traveler do?",
+    "options": [
+      "Take the second left after the bank",
+      "Turn right at the bank",
+      "Go straight past the park",
+      "Take the first left before the bank"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Second left after the bank."
+  },
+  {
+    "id": 289,
+    "section": "Listening",
+    "difficulty": 2,
+    "skillTag": "listening",
+    "prompt": "You hear: Two colleagues discuss a meeting. One says it was moved to 3 PM in Room 210.\nQuestion: When and where is the meeting?",
+    "options": [
+      "3 PM, Room 210",
+      "2 PM, Room 120",
+      "3 AM, Room 210",
+      "1 PM, Room 201"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Moved to 3 PM in Room 210."
+  },
+  {
+    "id": 290,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A traveler asks for directions. The clerk says to take the second left after the bank.\nQuestion: What should the traveler do?",
+    "options": [
+      "Take the second left after the bank",
+      "Turn right at the bank",
+      "Go straight past the park",
+      "Take the first left before the bank"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Second left after the bank."
+  },
+  {
+    "id": 291,
+    "section": "Listening",
+    "difficulty": 2,
+    "skillTag": "listening",
+    "prompt": "You hear: A traveler asks for directions. The clerk says to take the second left after the bank.\nQuestion: What should the traveler do?",
+    "options": [
+      "Take the second left after the bank",
+      "Turn right at the bank",
+      "Go straight past the park",
+      "Take the first left before the bank"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Second left after the bank."
+  },
+  {
+    "id": 292,
+    "section": "Listening",
+    "difficulty": 4,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  },
+  {
+    "id": 293,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A lecturer says the first chapter is optional, but chapters 2–5 are required.\nQuestion: Which chapters are required?",
+    "options": [
+      "2–5",
+      "1 only",
+      "1–2",
+      "All chapters"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Chapters 2–5 required."
+  },
+  {
+    "id": 294,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A traveler asks for directions. The clerk says to take the second left after the bank.\nQuestion: What should the traveler do?",
+    "options": [
+      "Take the second left after the bank",
+      "Turn right at the bank",
+      "Go straight past the park",
+      "Take the first left before the bank"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Second left after the bank."
+  },
+  {
+    "id": 295,
+    "section": "Listening",
+    "difficulty": 2,
+    "skillTag": "listening",
+    "prompt": "You hear: Two colleagues discuss a meeting. One says it was moved to 3 PM in Room 210.\nQuestion: When and where is the meeting?",
+    "options": [
+      "3 PM, Room 210",
+      "2 PM, Room 120",
+      "3 AM, Room 210",
+      "1 PM, Room 201"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Moved to 3 PM in Room 210."
+  },
+  {
+    "id": 296,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  },
+  {
+    "id": 297,
+    "section": "Listening",
+    "difficulty": 4,
+    "skillTag": "listening",
+    "prompt": "You hear: A customer asks for a refund. The clerk says returns are accepted within 14 days with a receipt.\nQuestion: What is the return policy?",
+    "options": [
+      "Within 14 days with a receipt",
+      "Any time without proof",
+      "Only same-day returns",
+      "No returns allowed"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "14 days with receipt."
+  },
+  {
+    "id": 298,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  },
+  {
+    "id": 299,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A customer asks for a refund. The clerk says returns are accepted within 14 days with a receipt.\nQuestion: What is the return policy?",
+    "options": [
+      "Within 14 days with a receipt",
+      "Any time without proof",
+      "Only same-day returns",
+      "No returns allowed"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "14 days with receipt."
+  },
+  {
+    "id": 300,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: Two colleagues discuss a meeting. One says it was moved to 3 PM in Room 210.\nQuestion: When and where is the meeting?",
+    "options": [
+      "3 PM, Room 210",
+      "2 PM, Room 120",
+      "3 AM, Room 210",
+      "1 PM, Room 201"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Moved to 3 PM in Room 210."
+  },
+  {
+    "id": 301,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A speaker describes a product as affordable but not very durable.\nQuestion: What is a drawback of the product?",
+    "options": [
+      "It may not last long",
+      "It is too expensive",
+      "It is difficult to use",
+      "It has no warranty"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Not durable = may not last long."
+  },
+  {
+    "id": 302,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A lecturer says the first chapter is optional, but chapters 2–5 are required.\nQuestion: Which chapters are required?",
+    "options": [
+      "2–5",
+      "1 only",
+      "1–2",
+      "All chapters"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Chapters 2–5 required."
+  },
+  {
+    "id": 303,
+    "section": "Listening",
+    "difficulty": 2,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  },
+  {
+    "id": 304,
+    "section": "Listening",
+    "difficulty": 4,
+    "skillTag": "listening",
+    "prompt": "You hear: A traveler asks for directions. The clerk says to take the second left after the bank.\nQuestion: What should the traveler do?",
+    "options": [
+      "Take the second left after the bank",
+      "Turn right at the bank",
+      "Go straight past the park",
+      "Take the first left before the bank"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Second left after the bank."
+  },
+  {
+    "id": 305,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: Two colleagues discuss a meeting. One says it was moved to 3 PM in Room 210.\nQuestion: When and where is the meeting?",
+    "options": [
+      "3 PM, Room 210",
+      "2 PM, Room 120",
+      "3 AM, Room 210",
+      "1 PM, Room 201"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Moved to 3 PM in Room 210."
+  },
+  {
+    "id": 306,
+    "section": "Listening",
+    "difficulty": 2,
+    "skillTag": "listening",
+    "prompt": "You hear: Two colleagues discuss a meeting. One says it was moved to 3 PM in Room 210.\nQuestion: When and where is the meeting?",
+    "options": [
+      "3 PM, Room 210",
+      "2 PM, Room 120",
+      "3 AM, Room 210",
+      "1 PM, Room 201"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Moved to 3 PM in Room 210."
+  },
+  {
+    "id": 307,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A traveler asks for directions. The clerk says to take the second left after the bank.\nQuestion: What should the traveler do?",
+    "options": [
+      "Take the second left after the bank",
+      "Turn right at the bank",
+      "Go straight past the park",
+      "Take the first left before the bank"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Second left after the bank."
+  },
+  {
+    "id": 308,
+    "section": "Listening",
+    "difficulty": 4,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  },
+  {
+    "id": 309,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  },
+  {
+    "id": 310,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A customer asks for a refund. The clerk says returns are accepted within 14 days with a receipt.\nQuestion: What is the return policy?",
+    "options": [
+      "Within 14 days with a receipt",
+      "Any time without proof",
+      "Only same-day returns",
+      "No returns allowed"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "14 days with receipt."
+  },
+  {
+    "id": 311,
+    "section": "Listening",
+    "difficulty": 4,
+    "skillTag": "listening",
+    "prompt": "You hear: A lecturer says the first chapter is optional, but chapters 2–5 are required.\nQuestion: Which chapters are required?",
+    "options": [
+      "2–5",
+      "1 only",
+      "1–2",
+      "All chapters"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Chapters 2–5 required."
+  },
+  {
+    "id": 312,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A lecturer says the first chapter is optional, but chapters 2–5 are required.\nQuestion: Which chapters are required?",
+    "options": [
+      "2–5",
+      "1 only",
+      "1–2",
+      "All chapters"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Chapters 2–5 required."
+  },
+  {
+    "id": 313,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A traveler asks for directions. The clerk says to take the second left after the bank.\nQuestion: What should the traveler do?",
+    "options": [
+      "Take the second left after the bank",
+      "Turn right at the bank",
+      "Go straight past the park",
+      "Take the first left before the bank"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Second left after the bank."
+  },
+  {
+    "id": 314,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A lecturer says the first chapter is optional, but chapters 2–5 are required.\nQuestion: Which chapters are required?",
+    "options": [
+      "2–5",
+      "1 only",
+      "1–2",
+      "All chapters"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Chapters 2–5 required."
+  },
+  {
+    "id": 315,
+    "section": "Listening",
+    "difficulty": 4,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  },
+  {
+    "id": 316,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A lecturer says the first chapter is optional, but chapters 2–5 are required.\nQuestion: Which chapters are required?",
+    "options": [
+      "2–5",
+      "1 only",
+      "1–2",
+      "All chapters"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Chapters 2–5 required."
+  },
+  {
+    "id": 317,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A traveler asks for directions. The clerk says to take the second left after the bank.\nQuestion: What should the traveler do?",
+    "options": [
+      "Take the second left after the bank",
+      "Turn right at the bank",
+      "Go straight past the park",
+      "Take the first left before the bank"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Second left after the bank."
+  },
+  {
+    "id": 318,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  },
+  {
+    "id": 319,
+    "section": "Listening",
+    "difficulty": 3,
+    "skillTag": "listening",
+    "prompt": "You hear: Two colleagues discuss a meeting. One says it was moved to 3 PM in Room 210.\nQuestion: When and where is the meeting?",
+    "options": [
+      "3 PM, Room 210",
+      "2 PM, Room 120",
+      "3 AM, Room 210",
+      "1 PM, Room 201"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Moved to 3 PM in Room 210."
+  },
+  {
+    "id": 320,
+    "section": "Listening",
+    "difficulty": 2,
+    "skillTag": "listening",
+    "prompt": "You hear: A student asks about an assignment deadline. The instructor says it has been extended to Friday.\nQuestion: What is the new deadline?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Wednesday",
+      "Today"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Extended to Friday."
+  }
+]
